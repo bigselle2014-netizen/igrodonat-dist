@@ -1,0 +1,90 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/29cwzqrbg8-3m.js"
+3:I[22016,["$2"],""]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:I[79520,["$2"],""]
+13:"ViewportBoundary"
+14:I[97367,["$2"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2"],"$15"]
+17:"$Sreact.suspense"
+:HL["/_next/static/chunks/00294raytvx3f.css","style"]
+:HL["/igd-gem.svg","image"]
+7:["$","div",null,{"children":["$","img",null,{"src":"https://mc.yandex.ru/watch/113565620","style":{"position":"absolute","left":"-9999px"},"alt":""}]}]
+9:X
+c:X
+c:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"💲STEAM TR-ARG-KZ-UA-US-EU и ДРУГИЕ, КОД ПОПОЛНЕНИЯ\",\"image\":\"https://graph.digiseller.ru/img.ashx?id_d=5675370&w=600&h=600&crop=true\",\"description\":\"⚡️Карты пополнения Steam для ЛЮБОГО региона, кроме РФ⚡️\\n🔥БЕЗ КОМИССИИ, если выбираете способ оплаты СБП. Цена зафиксируется 💯.\\n❗️Лучшая цена\\n👍Любой регион, кроме РФ\\n🚀Моментальная доставка 24/7\\n⚡️Только проверенные поставщики, коды 100% рабочие!\\n💲Номиналы под любую потребность\\n⚠️ ВАЖНО ПЕРЕД ПОКУПКОЙ! ⚠️\\nПеред оплатой внимательно проверьте регион активации карты — это поможет избежать ошибок и активаций вне поддерживаемых стран.\\n1️⃣Подарочные карты с пометкой: Весь мир (Без РФ) активируются:\",\"url\":\"https://igrodonat.ru/tovar/5675370/\",\"offers\":{\"@type\":\"Offer\",\"price\":\"30.00\",\"priceCurrency\":\"RUB\",\"availability\":\"https://schema.org/InStock\",\"url\":\"https://plati.market/itm/5675370\",\"seller\":{\"@type\":\"Organization\",\"name\":\"Donatella\"}}}"}}],"$L10"],null,"$L11"]}],"p":"$@12","v":null,"s":"$9"}}]]
+d:[["children",{"s":{"n":"id","t":"d","k":"5675370","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@e","v":"$c","s":"$9"},"c":"$Qf"}]]
+a:[["children",{"s":"tovar","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/00294raytvx3f.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/29cwzqrbg8-3m.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#content","children":"К содержанию"}],["$","header",null,{"className":"top","children":["$","div",null,{"className":"wrap top__bar","children":[["$","$L3",null,{"className":"logo","href":"/","aria-label":"Игродонат, на главную","children":[["$","img",null,{"className":"logo__mark","src":"/igd-gem.svg","alt":"","width":32,"height":32}],"Игродонат"]}],["$","nav",null,{"className":"top__nav","aria-label":"Разделы","children":[["$","$L3",null,{"href":"/igry/","children":"Игры"}],["$","$L3",null,{"href":"/kak-eto-rabotaet/","children":"Как это работает"}],["$","$L3",null,{"className":"top__find","href":"/poisk/","children":"Поиск"}]]}]]}]}],["$","main",null,{"id":"content","children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","section",null,{"className":"page-head page-head--404","children":["$","div",null,{"className":"wrap","children":[["$","h1",null,{"children":"Такой страницы нет"}],["$","p",null,{"className":"page-head__lead","children":"Возможно, товар сняли с продажи или адрес набран с ошибкой."}],["$","form",null,{"className":"find","action":"/poisk/","method":"get","role":"search","children":[["$","label",null,{"className":"find__label","htmlFor":"q","children":"Что пополнить?"}],["$","div",null,{"className":"find__row","children":[["$","input",null,{"id":"q","name":"q","type":"search","defaultValue":"","placeholder":"Например, Roblox","minLength":2,"required":true,"autoComplete":"off"}],["$","button",null,{"className":"btn btn--accent","type":"submit","children":"Найти"}]]}]]}],["$","p",null,{"className":"block","children":["$","$L3",null,{"href":"/igry/","children":"Все игры"}]}]]}]}],[]]}]}],["$","footer",null,{"className":"foot","children":["$","div",null,{"className":"wrap foot__grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"foot__brand","children":"Игродонат"}],["$","p",null,{"className":"foot__note","children":"Пополнение игр, донат и ключи. По каждому продавцу видно продажи, возвраты и отзывы."}]]}],["$","nav",null,{"aria-label":"О магазине","className":"foot__links","children":[["$","$L3",null,{"href":"/igry/","children":"Игры"}],["$","$L3",null,{"href":"/kak-eto-rabotaet/","children":"Как это работает"}],["$","$L3",null,{"href":"/o-magazine/","children":"О магазине"}],["$","$L3",null,{"href":"/politika/","children":"Политика конфиденциальности"}]]}],["$","p",null,{"className":"foot__journal","children":["Промокоды и комиссии сервисов пополнения разбираем в журнале"," ",["$","a",null,{"href":"https://cinergyorg.ru/promokody/","children":"Cinergy"}],"."]}]]}]}],[["$","$L6",null,{"id":"ym","strategy":"afterInteractive","children":"(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r){return;}}k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,'script','https://mc.yandex.ru/metrika/tag.js?id=113565620','ym');ym(113565620,'init',{ssr:true,webvisor:true,clickmap:true,ecommerce:'dataLayer',referrer:document.referrer,url:location.href,accurateTrackBounce:true,trackLinks:true});"}],["$","noscript",null,{"children":"$7"}]]]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f3f2ec","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#141414","media":"(prefers-color-scheme: dark)"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"💲STEAM TR-ARG-KZ-UA-US-EU и ДРУГИЕ, КОД ПОПОЛНЕНИЯ · Игродонат"}],["$","meta","1",{"name":"description","content":"Цена 30 ₽. ⚡️Карты пополнения Steam для ЛЮБОГО региона, кроме РФ⚡️ 🔥БЕЗ КОМИССИИ, если выбираете способ оплаты СБП. Цена зафиксируется 💯. ❗️Лучшая це"}],["$","meta","2",{"name":"application-name","content":"Игродонат"}],["$","link","3",{"rel":"manifest","href":"/manifest.webmanifest"}],"$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}],null]}],null]}],"p":"$@26","v":null,"s":"$9"}},"a":"$@27","u":"$@28","b":"LWkNmwMQjyIN55Sz68l-o"}
+31:I[97367,["$2"],"OutletBoundary"]
+33:I[27201,["$2"],"IconMark"]
+:HL["https://graph.digiseller.ru/img.ashx?id_d=5675370&w=640&h=640&crop=true","image"]
+29:Tb80,⚡️Карты пополнения Steam для ЛЮБОГО региона, кроме РФ⚡️
+🔥БЕЗ КОМИССИИ, если выбираете способ оплаты СБП. Цена зафиксируется 💯.
+❗️Лучшая цена
+👍Любой регион, кроме РФ
+🚀Моментальная доставка 24/7
+⚡️Только проверенные поставщики, коды 100% рабочие!
+💲Номиналы под любую потребность
+⚠️ ВАЖНО ПЕРЕД ПОКУПКОЙ! ⚠️
+Перед оплатой внимательно проверьте регион активации карты — это поможет избежать ошибок и активаций вне поддерживаемых стран.
+1️⃣Подарочные карты с пометкой: Весь мир (Без РФ) активируются:
+✅ Казахстан
+✅ Украина
+✅ Беларусь
+✅ Аргентина
+✅ США
+✅ Страны ЕС
+✅ Страны Азии (Китай, Корея, Тайланд и пр.)
+
+⛔ Не работает в России, Колумбии, Южной Африке, Вьетнаме! ⛔
+
+🔰Активировать карту пополнения Steam можно по ссылке - https://store.steampowered.com/account/redeemwalletcode
+🛒 НЕТ НУЖНОГО НОМИНАЛА? 🛒
+✅ Используйте корзину для покупки нужной суммы
+❗️Внимание❗️При зачислении возможна внутренняя конвертация валют Steam (разница до ±1%). Это нормально!❗️
+❤️Пожалуйста, оставьте отзыв. Благодаря Вам мы можем становиться лучше!❤️ ❤️Спасибо, что выбираете Donatella ❤️
+Мы стараемся сделать каждую покупку быстрой, безопасной и приятной!
+
+🚀 Товары доставляются мгновенно сразу после оплаты.
+🎮 Большой выбор: карты пополнения, игры, DLC и подписки.
+💰 Мы предлагаем честные цены и постоянные скидки.
+🌟 Поддержка всегда рядом и поможет с любым вопросом.
+❗️После покупки и получения цифровых кодов — коды надлежащего качества не подлежат замене или возврату.❗
+❗Если ошибка случилась по нашей вине — с нами вы всегда защищены: возврат или обмен гарантированы.❗
+💎 Donatella — здесь цифровой мир ближе, чем кажется. Мы стараемся для Вас.10:["$","div",null,{"className":"wrap product","children":[["$","nav",null,{"className":"crumbs","aria-label":"Навигация","children":[["$","$L3",null,{"href":"/","children":"Игродонат"}]," / ",["$","$L3",null,{"href":"/igry/","children":"Игры"}]," / Товар"]}],["$","div",null,{"className":"product__grid","children":[["$","img",null,{"className":"product__img","src":"https://graph.digiseller.ru/img.ashx?id_d=5675370&w=640&h=640&crop=true","alt":"","width":320,"height":320}],["$","div",null,{"className":"product__main","children":[["$","h1",null,{"className":"product__name","children":"💲STEAM TR-ARG-KZ-UA-US-EU и ДРУГИЕ, КОД ПОПОЛНЕНИЯ"}],["$","p",null,{"className":"product__price","children":["30 ₽",["$","span",null,{"children":" от этой цены, итог зависит от выбранного варианта"}]]}],false,["$","div",null,{"className":"buy","children":["$","a",null,{"className":"btn","href":"https://plati.market/itm/5675370","rel":"nofollow noopener","target":"_blank","children":"Купить"}]}],["$","dl",null,{"className":"facts","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Продавец"}],["$","dd",null,{"children":"Donatella"}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Продаж товара"}],["$","dd",null,{"children":"6 636"}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Возвратов"}],["$","dd",null,{"children":"0"}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Отзывы о товаре"}],["$","dd",null,{"children":["334"," хороших, ","0"," плохих"]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Отзывы о продавце"}],["$","dd",null,{"children":["1 888"," хороших, ","0"," плохих"]}]]}]]}],false,false]}]]}],["$","section",null,{"className":"block","aria-labelledby":"desc-t","children":[["$","h2",null,{"id":"desc-t","children":"Описание от продавца"}],["$","div",null,{"className":"desc","children":"$29"}],["$","details",null,{"className":"desc-more","children":[["$","summary",null,{"children":"Дополнительная информация"}],["$","div",null,{"className":"desc","children":"🔰Активировать карту пополнения Steam можно по ссылке - https://store.steampowered.com/account/redeemwalletcode"}]]}]]}],["$","section",null,{"className":"block","aria-labelledby":"rev-t","children":[["$","h2",null,{"id":"rev-t","children":"Последние отзывы о товаре"}],["$","ul",null,{"className":"reviews","children":[["$","li","18077145",{"className":"review","children":["$L2a","$L2b",""]}],"$L2c","$L2d","$L2e","$L2f"]}],"$L30"]}]]}]
+11:["$","$L31",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+18:["$","link","4",{"rel":"canonical","href":"https://igrodonat.ru/tovar/5675370/"}]
+19:["$","meta","5",{"name":"google-site-verification","content":"CAamMRBu7WUEzhDXy2ly4bZcJAwST1Rbr9Yb1H9vIz0"}]
+1a:["$","meta","6",{"name":"yandex-verification","content":"994cf1cda8f561c2"}]
+1b:["$","meta","7",{"property":"og:title","content":"💲STEAM TR-ARG-KZ-UA-US-EU и ДРУГИЕ, КОД ПОПОЛНЕНИЯ · Игродонат"}]
+1c:["$","meta","8",{"property":"og:description","content":"Цена 30 ₽. ⚡️Карты пополнения Steam для ЛЮБОГО региона, кроме РФ⚡️ 🔥БЕЗ КОМИССИИ, если выбираете способ оплаты СБП. Цена зафиксируется 💯. ❗️Лучшая це"}]
+1d:["$","meta","9",{"property":"og:image","content":"https://graph.digiseller.ru/img.ashx?id_d=5675370&w=1200&h=630&crop=true"}]
+1e:["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}]
+1f:["$","meta","11",{"name":"twitter:title","content":"💲STEAM TR-ARG-KZ-UA-US-EU и ДРУГИЕ, КОД ПОПОЛНЕНИЯ · Игродонат"}]
+20:["$","meta","12",{"name":"twitter:description","content":"Цена 30 ₽. ⚡️Карты пополнения Steam для ЛЮБОГО региона, кроме РФ⚡️ 🔥БЕЗ КОМИССИИ, если выбираете способ оплаты СБП. Цена зафиксируется 💯. ❗️Лучшая це"}]
+21:["$","meta","13",{"name":"twitter:image","content":"https://igrodonat.ru/og.png"}]
+22:["$","link","14",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}]
+23:["$","link","15",{"rel":"icon","href":"/favicon.ico","sizes":"16x16 32x32 48x48"}]
+24:["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}]
+25:["$","$L33","17",{}]
+9:300
+2a:["$","p",null,{"className":"review__meta","children":["Хороший"," · ","08.10.2026"]}]
+2b:["$","p",null,{"children":"Ключ пришёл быстро, продавана рекомендую."}]
+2c:["$","li","18074715",{"className":"review","children":[["$","p",null,{"className":"review__meta","children":["Хороший"," · ","08.10.2026"]}],["$","p",null,{"children":"Коды пришли мгновенно и активировались без проблем, сумма тоже совпала (плюс-минус пару центов)"}],""]}]
+2d:["$","li","18074712",{"className":"review","children":[["$","p",null,{"className":"review__meta","children":["Хороший"," · ","08.10.2026"]}],["$","p",null,{"children":"Коды пришли мгновенно и активировались без проблем, сумма тоже совпала (плюс-минус пару центов)"}],""]}]
+2e:["$","li","18072646",{"className":"review","children":[["$","p",null,{"className":"review__meta","children":["Хороший"," · ","08.10.2026"]}],["$","p",null,{"children":"Всё чётко!"}],""]}]
+2f:["$","li","18069412",{"className":"review","children":[["$","p",null,{"className":"review__meta","children":["Хороший"," · ","07.10.2026"]}],["$","p",null,{"children":"все гуд"}],""]}]
+30:["$","p",null,{"className":"note","children":["Всего ","333"," ","отзыва",", все на"," ",["$","a",null,{"href":"https://plati.market/itm/5675370","rel":"nofollow noopener","target":"_blank","children":"странице оплаты товара"}],"."]}]
+32:null
+28:true
+9:C
+27:0
+e:"$undefined"
+b:"$undefined"
+8:"$undefined"
+26:"$undefined"
+12:"$undefined"

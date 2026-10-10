@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/00294raytvx3f.css","style"]
+:HL["/igd-gem.svg","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"steam","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"igry","h":131168,"c":"$Q2"}]]
+0:{"b":"LWkNmwMQjyIN55Sz68l-o","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

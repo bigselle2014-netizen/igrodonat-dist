@@ -1,0 +1,17 @@
+# Beget (Apache): статический экспорт Next.js
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+Options -Indexes
+
+# Настройки и журналы API: снаружи недоступны.
+RedirectMatch 404 ^/\.private(/|$)
+
+<IfModule mod_headers.c>
+  <FilesMatch "^.*\.(js|css|woff2)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_mime.c>
+  AddType application/manifest+json .webmanifest
+</IfModule>

@@ -1,0 +1,52 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/29cwzqrbg8-3m.js"
+3:"/_next/static/chunks/1195ja-ad56us.js"
+4:I[22016,["$2","$3"],""]
+5:I[39756,["$2"],"default"]
+6:I[37457,["$2"],"default"]
+7:I[79520,["$2"],""]
+f:I[72695,["$2","$3"],"SearchResults"]
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$2"],"$14"]
+16:"$Sreact.suspense"
+:HL["/_next/static/chunks/00294raytvx3f.css","style"]
+:HL["/igd-gem.svg","image"]
+8:["$","div",null,{"children":["$","img",null,{"src":"https://mc.yandex.ru/watch/113565620","style":{"position":"absolute","left":"-9999px"},"alt":""}]}]
+a:X
+d:X
+d:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","section",null,{"className":"page-head","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"crumbs","aria-label":"Навигация","children":[["$","$L4",null,{"href":"/","children":"Игродонат"}]," / Поиск"]}],["$","h1",null,{"children":"Поиск"}],["$","form",null,{"className":"find","action":"/poisk/","method":"get","role":"search","children":[["$","label",null,{"className":"find__label","htmlFor":"q","children":"Что пополнить?"}],["$","div",null,{"className":"find__row","children":[["$","input",null,{"id":"q","name":"q","type":"search","defaultValue":"","placeholder":"Например, Roblox","minLength":2,"required":true,"autoComplete":"off"}],["$","button",null,{"className":"btn btn--accent","type":"submit","children":"Найти"}]]}]]}]]}]}],["$","div",null,{"className":"wrap block","children":["$","$Lf",null,{}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/1195ja-ad56us.js","async":true}]],"$L10"]}],"p":"$@11","v":null,"s":"$a"}}]]
+b:[["children",{"s":"poisk","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/00294raytvx3f.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/29cwzqrbg8-3m.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#content","children":"К содержанию"}],["$","header",null,{"className":"top","children":["$","div",null,{"className":"wrap top__bar","children":[["$","$L4",null,{"className":"logo","href":"/","aria-label":"Игродонат, на главную","children":[["$","img",null,{"className":"logo__mark","src":"/igd-gem.svg","alt":"","width":32,"height":32}],"Игродонат"]}],["$","nav",null,{"className":"top__nav","aria-label":"Разделы","children":[["$","$L4",null,{"href":"/igry/","children":"Игры"}],["$","$L4",null,{"href":"/kak-eto-rabotaet/","children":"Как это работает"}],["$","$L4",null,{"className":"top__find","href":"/poisk/","children":"Поиск"}]]}]]}]}],["$","main",null,{"id":"content","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","section",null,{"className":"page-head page-head--404","children":["$","div",null,{"className":"wrap","children":[["$","h1",null,{"children":"Такой страницы нет"}],["$","p",null,{"className":"page-head__lead","children":"Возможно, товар сняли с продажи или адрес набран с ошибкой."}],["$","form",null,{"className":"find","action":"/poisk/","method":"get","role":"search","children":[["$","label",null,{"className":"find__label","htmlFor":"q","children":"Что пополнить?"}],["$","div",null,{"className":"find__row","children":[["$","input",null,{"id":"q","name":"q","type":"search","defaultValue":"","placeholder":"Например, Roblox","minLength":2,"required":true,"autoComplete":"off"}],["$","button",null,{"className":"btn btn--accent","type":"submit","children":"Найти"}]]}]]}],["$","p",null,{"className":"block","children":["$","$L4",null,{"href":"/igry/","children":"Все игры"}]}]]}]}],[]]}]}],["$","footer",null,{"className":"foot","children":["$","div",null,{"className":"wrap foot__grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"foot__brand","children":"Игродонат"}],["$","p",null,{"className":"foot__note","children":"Пополнение игр, донат и ключи. По каждому продавцу видно продажи, возвраты и отзывы."}]]}],["$","nav",null,{"aria-label":"О магазине","className":"foot__links","children":[["$","$L4",null,{"href":"/igry/","children":"Игры"}],["$","$L4",null,{"href":"/kak-eto-rabotaet/","children":"Как это работает"}],["$","$L4",null,{"href":"/o-magazine/","children":"О магазине"}],["$","$L4",null,{"href":"/politika/","children":"Политика конфиденциальности"}]]}],["$","p",null,{"className":"foot__journal","children":["Промокоды и комиссии сервисов пополнения разбираем в журнале"," ",["$","a",null,{"href":"https://cinergyorg.ru/promokody/","children":"Cinergy"}],"."]}]]}]}],[["$","$L7",null,{"id":"ym","strategy":"afterInteractive","children":"(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r){return;}}k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,'script','https://mc.yandex.ru/metrika/tag.js?id=113565620','ym');ym(113565620,'init',{ssr:true,webvisor:true,clickmap:true,ecommerce:'dataLayer',referrer:document.referrer,url:location.href,accurateTrackBounce:true,trackLinks:true});"}],["$","noscript",null,{"children":"$8"}]]]}]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f3f2ec","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#141414","media":"(prefers-color-scheme: dark)"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Поиск · Игродонат"}],["$","meta","1",{"name":"description","content":"Пополнение игр, игровая валюта и ключи: цена, продажи и отзывы покупателей по каждому продавцу."}],["$","meta","2",{"name":"application-name","content":"Игродонат"}],["$","link","3",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","4",{"name":"robots","content":"noindex, follow"}],["$","meta","5",{"name":"google-site-verification","content":"CAamMRBu7WUEzhDXy2ly4bZcJAwST1Rbr9Yb1H9vIz0"}],"$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}],null]}],null]}],"p":"$@29","v":null,"s":"$a"}},"a":"$@2a","u":"$@2b","b":"LWkNmwMQjyIN55Sz68l-o"}
+2c:I[97367,["$2"],"OutletBoundary"]
+2e:I[27201,["$2"],"IconMark"]
+10:["$","$L2c",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@2d"}]}]
+17:["$","meta","6",{"name":"yandex-verification","content":"994cf1cda8f561c2"}]
+18:["$","meta","7",{"property":"og:title","content":"Поиск · Игродонат"}]
+19:["$","meta","8",{"property":"og:description","content":"Пополнение игр, игровая валюта и ключи: цена, продажи и отзывы покупателей по каждому продавцу."}]
+1a:["$","meta","9",{"property":"og:site_name","content":"Игродонат"}]
+1b:["$","meta","10",{"property":"og:locale","content":"ru_RU"}]
+1c:["$","meta","11",{"property":"og:image","content":"https://igrodonat.ru/og.png"}]
+1d:["$","meta","12",{"property":"og:image:width","content":"1200"}]
+1e:["$","meta","13",{"property":"og:image:height","content":"630"}]
+1f:["$","meta","14",{"property":"og:image:alt","content":"Игродонат"}]
+20:["$","meta","15",{"property":"og:type","content":"website"}]
+21:["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}]
+22:["$","meta","17",{"name":"twitter:title","content":"Поиск · Игродонат"}]
+23:["$","meta","18",{"name":"twitter:description","content":"Пополнение игр, игровая валюта и ключи: цена, продажи и отзывы покупателей по каждому продавцу."}]
+24:["$","meta","19",{"name":"twitter:image","content":"https://igrodonat.ru/og.png"}]
+25:["$","link","20",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}]
+26:["$","link","21",{"rel":"icon","href":"/favicon.ico","sizes":"16x16 32x32 48x48"}]
+27:["$","link","22",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180"}]
+28:["$","$L2e","23",{}]
+a:300
+2d:null
+2b:true
+a:C
+2a:0
+c:"$undefined"
+9:"$undefined"
+29:"$undefined"
+11:"$undefined"
