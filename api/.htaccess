@@ -1,0 +1,9 @@
+# Все запросы /api/* — в index.php; служебные файлы закрыты.
+Options -Indexes
+<FilesMatch "\.(sql|md|log)$">
+  Require all denied
+</FilesMatch>
+RewriteEngine On
+RewriteRule ^lib/ - [F,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [L,QSA]
